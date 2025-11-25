@@ -1,0 +1,8 @@
+#swapping of two numbers
+x=6
+y=8
+x=x+y #6+8=14
+y=x-y #14-8=6
+x=x-y #14-6=8
+print(" value of x is :",x)
+print("value of y is :",y)
